@@ -1,7 +1,0 @@
-com\eurekatutorials\PhotoApApiUsers\Model\CreateUserRequestModel.class
-com\eurekatutorials\PhotoApApiUsers\PhotoApApiUsersApplication.class
-com\eurekatutorials\PhotoApApiUsers\service\UsersService.class
-com\eurekatutorials\PhotoApApiUsers\entity\UserEntity.class
-com\eurekatutorials\PhotoApApiUsers\controller\UserController.class
-com\eurekatutorials\PhotoApApiUsers\service\impl\UsersServiceImpl.class
-com\eurekatutorials\PhotoApApiUsers\dto\UserDTO.class
